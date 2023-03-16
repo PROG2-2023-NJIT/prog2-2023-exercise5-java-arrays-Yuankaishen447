@@ -458,7 +458,7 @@ public TripDestination getDestinationAirport(){
                         "Date of departure: " + departingDate + "\n" +
                         "Date of return: " + returnDate + "\n" +
                         "Total passengers: " + totalPassengers + "\n" +
-                        "Total ticket price in Euros: " + totalTicketPrice + "\n");
+                        "Total ticket price in Euros: " + totalTicketPrice );
 
                 break;
         }
